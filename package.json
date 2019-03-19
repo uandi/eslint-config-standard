@@ -1,6 +1,6 @@
 {
     "name": "@uandi/eslint-config-standard",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "ESLint and Prettier Configuration for u+i",
     "keywords": [
         "javascript",
@@ -11,7 +11,7 @@
         "prettier"
     ],
     "main": "index.js",
-    "repository": "git@github.com:uandi/eslint-config.git",
+    "repository": "git@github.com:uandi/eslint-config-standard.git",
     "author": "Niklas Postulart (https://uandi.com)",
     "contributors": [
         "Niklas Postulart (https://uandi.com)"
